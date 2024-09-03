@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 10px 10px;
     font-family: 'Georgia', serif;
-    background-image: url('/images/flat-lay-2583213_640.jpg');
+    background-image: url('../images/flat-lay-2583213_640.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
