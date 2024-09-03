@@ -63,7 +63,7 @@ body {
 .hero {
     text-align: center;
     padding: 50px 20px;
-    background-image: url('images/images/icon/1.jpg');
+    background-image: url('images/icon/1.jpg');
     background-size: cover;
     color: var(--text-color);
   
