@@ -64,7 +64,7 @@ body {
     align-items: center;
     padding: 60px 40px;
     /* background-color: #394a51; Fallback background color */
-    background-image: url('/images/slider-bg-1.jpg'); /* Path to your background image */
+    background-image: url('../images/slider-bg-1.jpg'); /* Path to your background image */
     background-size: cover; /* Ensure the image covers the entire section */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
