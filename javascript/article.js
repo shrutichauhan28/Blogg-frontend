@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:8080';
+const baseURL = 'https://blogggapp-server-production.up.railway.app';
 
 // const modal = document.getElementById('modal');
 
