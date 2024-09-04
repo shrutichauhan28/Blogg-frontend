@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
             body: editorInstance.getData()
         };
 
-        fetch('http://localhost:8080/articles', {
+        fetch('https://blogggapp-server-production.up.railway.app/articles', {
             method: 'POST',
             headers: {
                 'Authorization': `Bearer ${token}`,
